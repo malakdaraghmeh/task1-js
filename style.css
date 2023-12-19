@@ -1,0 +1,10 @@
+.demo{
+    background-color: aqua;
+    border: 2px solid grey;
+}
+.vip{
+    color:rebeccapurple;
+    text-decoration: underline;
+    width: 700;
+    font-size: 30px;
+}
